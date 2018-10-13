@@ -1,0 +1,4 @@
+/*
+this problem comprises of conversion of one type of spredsheet row column 
+notation to another.
+*/
