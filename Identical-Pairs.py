@@ -1,6 +1,6 @@
 '''
 This one is an interview question. In this problem we have to tell that weather
-we can split an list(array) into identical array.
+we can split an list(array) into identical pairs.
 eg:- [1,2,2,1] can be splitted into [1,2] and [1,2]
 
 approch:- every element have to occur even no. of time. To find distinct elements i used set data-structure
