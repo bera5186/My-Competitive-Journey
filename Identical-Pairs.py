@@ -4,6 +4,8 @@ we can split an list(array) into identical pairs.
 eg:- [1,2,2,1] can be splitted into [1,2] and [1,2]
 
 approch:- every element have to occur even no. of time. To find distinct elements i used set data-structure
+complexity-analysis:- its worst case complexity is O(n) when all the elements are distinct.
+                        its best case complexity is O(1) when all elements are same.
 '''
 
 l = [1,2,4,1,4,2]
