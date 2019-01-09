@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "cmath": "cpp",
-        "cstdio": "cpp",
-        "thread": "cpp"
-    },
-    "rainbowString": {},
-    "python.formatting.provider": "autopep8"
-}
