@@ -3,6 +3,9 @@ using namespace std;
 
 int main()
 {
+    ios_base::sync_with_stdio(0);
+    cin.tie(NULL);
+
     string s;
     int t;
     unordered_map<char, int> f1, f2;
@@ -26,13 +29,13 @@ int main()
         {
             if(f1[x] != f2[x])
             {
-                cout<<"NO";
+                cout<<"NO"<<"\n";
                 flag=1;
                 break;
             }
             
         }
-        if(flag == 0) cout<<"Yes";
+        if(flag == 0) cout<<"YES"<<"\n";
     
         
 
